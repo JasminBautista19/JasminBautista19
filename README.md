@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a dedicated **BS Computer Science** student w
 ## 🎓 Education  
 - **BS Computer Science**  
   New Era University  
-  2021–Present  
+  2024–Present  
 
 ## 📜 Certification  
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/451c4d5ead8f466195b5c129953c4704)  
