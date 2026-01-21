@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I am a dedicated **BS Computer Science** student w
 - [OCI Foundations Associate (2025) ](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C6B4FE023265A6BE5413C90758A32494413F194DD040F3976E7C5D53AAF7DC17)
 - [Oracle Data Platform Foundations Associate (2025) ](https://catalog-education.oracle.com/pls/certview/sharebadge?id=899B25902C1F1D72CD559443B3F284FB2F8D31FD02AD213B65B6B0BEB04591F7)
 - [OCI AI Foundations Associate (2025) ](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DED1589EC9D254C9A86BFAD1B9FD90A6A97D6FCB7AF071E0A988C3A83ACC538B)
+- [Gemini Certified Student ](https://edu.google.accredible.com/d658c151-3c95-4698-a2fa-c62726c08c38#acc.xynzXFwm)
 
 ## 🛠 Skill Sets  
 - **Programming:** Java, JavaScript  
